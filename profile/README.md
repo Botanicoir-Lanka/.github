@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Botanicoir" width="360">
 </p>
 
-<h3 align="center">Engineering at Botanicoir</h3>
+<h3 align="center">IT at Botanicoir</h3>
 
 <p align="center">
   Producers of Quality Cocopeat — this organization hosts the internal engineering<br>
