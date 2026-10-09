@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
+  <defs>
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fbf4e2"/>
+      <stop offset="100%" stop-color="#f6ecd4"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .num { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 42px; font-weight: 800; fill: #14532d; }
+    .lbl { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 16px; fill: #52603f; }
+  </style>
+
+  <g>
+    <rect x="0" y="0" width="282" height="160" rx="14" fill="url(#card)"/>
+    <rect x="0" y="0" width="282" height="6" rx="3" fill="#14532d"/>
+    <text x="141" y="78" text-anchor="middle" class="num">20+</text>
+    <text x="141" y="112" text-anchor="middle" class="lbl">years of coir expertise</text>
+  </g>
+
+  <g transform="translate(306,0)">
+    <rect x="0" y="0" width="282" height="160" rx="14" fill="url(#card)"/>
+    <rect x="0" y="0" width="282" height="6" rx="3" fill="#7a4a23"/>
+    <text x="141" y="78" text-anchor="middle" class="num">70+</text>
+    <text x="141" y="112" text-anchor="middle" class="lbl">countries supplied</text>
+  </g>
+
+  <g transform="translate(612,0)">
+    <rect x="0" y="0" width="282" height="160" rx="14" fill="url(#card)"/>
+    <rect x="0" y="0" width="282" height="6" rx="3" fill="#ca8a04"/>
+    <text x="141" y="78" text-anchor="middle" class="num">4</text>
+    <text x="141" y="112" text-anchor="middle" class="lbl">international certifications</text>
+  </g>
+
+  <g transform="translate(918,0)">
+    <rect x="0" y="0" width="282" height="160" rx="14" fill="url(#card)"/>
+    <rect x="0" y="0" width="282" height="6" rx="3" fill="#15803d"/>
+    <text x="141" y="78" text-anchor="middle" class="num">2005</text>
+    <text x="141" y="112" text-anchor="middle" class="lbl">founded in Sri Lanka</text>
+  </g>
+</svg>

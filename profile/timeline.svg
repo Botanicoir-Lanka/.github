@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+  <style>
+    .title { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #22311f; }
+    .sub   { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 13px; fill: #6b7a63; }
+    .ico   { font-size: 30px; }
+  </style>
+  <rect width="1200" height="210" rx="14" fill="#faf3e3"/>
+
+  <line x1="140" y1="75" x2="1060" y2="75" stroke="#cbb98a" stroke-width="2" stroke-dasharray="6 7"/>
+
+  <g text-anchor="middle">
+    <g transform="translate(140,0)">
+      <circle cy="75" r="36" fill="#3a2414"/>
+      <text y="86" class="ico" text-anchor="middle">&#129381;</text>
+      <text y="135" class="title">Husk</text>
+      <text y="158" class="sub">Sri Lankan coconuts</text>
+    </g>
+    <g transform="translate(370,0)">
+      <circle cy="75" r="36" fill="#6b4a23"/>
+      <text y="86" class="ico" text-anchor="middle">&#128167;</text>
+      <text y="135" class="title">Washed &amp; buffered</text>
+      <text y="158" class="sub">low EC, stable pH</text>
+    </g>
+    <g transform="translate(600,0)">
+      <circle cy="75" r="36" fill="#c99a3c"/>
+      <text y="86" class="ico" text-anchor="middle">&#129514;</text>
+      <text y="135" class="title">Blended</text>
+      <text y="158" class="sub">tuned for each crop</text>
+    </g>
+    <g transform="translate(830,0)">
+      <circle cy="75" r="36" fill="#15803d"/>
+      <text y="86" class="ico" text-anchor="middle">&#128230;</text>
+      <text y="135" class="title">Packed</text>
+      <text y="158" class="sub">grow bags, blocks, discs</text>
+    </g>
+    <g transform="translate(1060,0)">
+      <circle cy="75" r="36" fill="#14532d"/>
+      <text y="86" class="ico" text-anchor="middle">&#127827;</text>
+      <text y="135" class="title">Harvest</text>
+      <text y="158" class="sub">growers worldwide</text>
+    </g>
+  </g>
+</svg>

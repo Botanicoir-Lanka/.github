@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a2916"/>
+      <stop offset="55%" stop-color="#14532d"/>
+      <stop offset="100%" stop-color="#4a2f16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+
+  <!-- decorative leaves -->
+  <g opacity="0.35" fill="#8fbf7a">
+    <ellipse cx="1030" cy="60" rx="26" ry="11" transform="rotate(-25 1030 60)"/>
+    <ellipse cx="1120" cy="270" rx="22" ry="9" transform="rotate(20 1120 270)"/>
+    <ellipse cx="760" cy="55" rx="18" ry="8" transform="rotate(-10 760 55)"/>
+  </g>
+
+  <!-- palm tree -->
+  <g transform="translate(940,40)">
+    <path d="M60 70 C 55 140 52 200 46 260" stroke="#7a4a23" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <g fill="#5fae57">
+      <path d="M60 70 C 20 40 -20 30 -55 45 C -10 55 25 65 60 80 Z"/>
+      <path d="M60 70 C 15 20 -30 5 -70 10 C -20 30 20 50 60 80 Z" opacity="0.9"/>
+      <path d="M60 70 C 45 15 30 -25 10 -55 C 25 -5 40 35 60 80 Z" opacity="0.95"/>
+      <path d="M60 70 C 85 15 110 -15 150 -25 C 115 5 90 35 60 80 Z" opacity="0.9"/>
+      <path d="M60 70 C 105 35 150 25 190 40 C 145 50 105 60 60 80 Z"/>
+      <path d="M60 70 C 100 60 140 65 175 90 C 135 80 95 75 60 80 Z" opacity="0.85"/>
+    </g>
+  </g>
+
+  <!-- text -->
+  <text x="70" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="4" fill="#e8d8a0" font-weight="600">SRI LANKA &#183; SINCE 2005</text>
+  <text x="68" y="165" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" fill="#f6ecd4" font-weight="800">Botanicoir Lanka</text>
+  <text x="70" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#e9f1ea">Premium coir growing media for the world&#8217;s growers</text>
+
+  <!-- pills -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600">
+    <g>
+      <rect x="70" y="240" width="150" height="40" rx="20" fill="#ffffff" fill-opacity="0.12" stroke="#cfe3d5" stroke-opacity="0.4"/>
+      <circle cx="92" cy="260" r="4" fill="#8fe3a8"/>
+      <text x="106" y="266" fill="#f3faf4">Grow bags</text>
+    </g>
+    <g>
+      <rect x="232" y="240" width="150" height="40" rx="20" fill="#ffffff" fill-opacity="0.12" stroke="#cfe3d5" stroke-opacity="0.4"/>
+      <circle cx="254" cy="260" r="4" fill="#8fe3a8"/>
+      <text x="268" y="266" fill="#f3faf4">Coco peat</text>
+    </g>
+    <g>
+      <rect x="394" y="240" width="180" height="40" rx="20" fill="#ffffff" fill-opacity="0.12" stroke="#cfe3d5" stroke-opacity="0.4"/>
+      <circle cx="416" cy="260" r="4" fill="#8fe3a8"/>
+      <text x="430" y="266" fill="#f3faf4">Blocks &amp; discs</text>
+    </g>
+  </g>
+</svg>
