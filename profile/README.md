@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.svg" alt="Botanicoir Lanka — Sri Lanka, since 2005" width="100%">
+  <img src="hero-banner.svg" alt="Botanicoir Lanka — Sri Lanka, since 2005" width="100%">
 </p>
 
 <h3 align="center">IT at Botanicoir</h3>
