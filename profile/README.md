@@ -2,6 +2,8 @@
   <img src="hero.svg" alt="Botanicoir Lanka — Sri Lanka, since 2005" width="100%">
 </p>
 
+<h3 align="center">IT at Botanicoir</h3>
+
 <p align="center">
   <a href="https://www.botanicoir.com/"><img src="https://img.shields.io/badge/Website-botanicoir.com-14532d?logo=googlechrome&logoColor=white" alt="Website"></a>
   <img src="https://img.shields.io/badge/Supplying-70%2B%20countries-7a4a23" alt="70+ countries">
@@ -45,7 +47,7 @@ sustainability credentials of the coir they use.
 
 ## What lives on this GitHub
 
-This is where our team builds the digital side of Botanicoir: the internal tools that keep
+This is where our IT team builds the digital side of Botanicoir: the internal tools that keep
 production, quality data, finance and logistics running smoothly. Repositories here are private —
 they support live, operational systems — but here's what's in active development:
 
